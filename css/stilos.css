@@ -199,6 +199,10 @@ header .icons #menu-bars {
     font-size: 2rem;
     background: #eee;
   }
+  #search-form #search-box {
+    width: 90%;
+    margin: 0 1rem;
+  }
 }
 
 @media (max-width: 991px) {
